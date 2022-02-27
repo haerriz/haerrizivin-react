@@ -27,7 +27,7 @@ class App extends Component {
                       Learn React
                   </a>
                   <p>{this.state.string}</p>
-                  <button onClick={() => this.setState({string: 'UNaku laam vanakam solla mudiyadhu'})}>Click me</button>
+                  <button onClick={() => this.setState({string: 'Unaku laam vanakam solla mudiyadhu'})}>Click me</button>
               </header>
           </div>
       )
